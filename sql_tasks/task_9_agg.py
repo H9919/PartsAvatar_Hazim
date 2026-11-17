@@ -1,3 +1,4 @@
+#almost the same as the one before however in the code we will add a function HAVING SUM ( total_quantity) > 1
 import sqlite3
 
 def get_popular_skus():
