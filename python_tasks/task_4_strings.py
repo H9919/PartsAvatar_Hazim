@@ -1,3 +1,7 @@
+# here it can be split with - 
+# then Upper case function 
+#then merge  and all three can be in one list named li
+
 # Task: String Formatting
 # Goal: Transform a raw SKU into a readable title.
 
